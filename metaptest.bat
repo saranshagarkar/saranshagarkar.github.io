@@ -1,5 +1,5 @@
 F:
 cd Data/Saransh_projects/non-school/miscellaneous/comp_saransh/comp_programs/command line tryouts
 git add .
-git commit -m "Save my work"
+git commit -m "Save my work again"
 git push -u origin master
